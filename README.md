@@ -63,7 +63,6 @@ Welcome to my GitHub repository for the Web Development Internship 2024! This pr
 ## 2️⃣ Week 2
 
 ### *20th May 2024*
-- *Online Session*: Advanced JavaScript concepts and asynchronous programming
 - Focused on asynchronous JavaScript, AJAX, and handling data from APIs.
 
 ![AJAX and Asynchronous JavaScript](https://example.com/ajax-js.jpg)
@@ -104,7 +103,6 @@ Welcome to my GitHub repository for the Web Development Internship 2024! This pr
 ## 3️⃣ Week 3
 
 ### *27th May 2024*
-- *Online Session*: Modern JavaScript features and frameworks
 - Focused on ES6+ features and an introduction to React or Angular.
 
 ![Modern JavaScript](https://example.com/modern-js.jpg)
@@ -141,7 +139,6 @@ Welcome to my GitHub repository for the Web Development Internship 2024! This pr
 ## 4️⃣ Week 4
 
 ### *3rd June 2024*
-- *Online Session*: Project completion and final presentation
 - This week focused on finalizing the project, preparing the presentation, and showcasing the work done during the internship.
 
 ![Final Presentation](https://example.com/final-presentation.jpg)
