@@ -168,11 +168,6 @@ Welcome to my GitHub repository for the Web Development Internship 2024! This pr
 ## Summary of Week-4
 - Successfully completed the project, presented it, and received valuable feedback.
 
-## Problems Faced Post-Internship
-
-- After the internship ended on 30th June, I encountered billing issues due to active services.
-- Contacted John Doe and AWS support to resolve the issues, ensuring all services were terminated properly.
-
 ## 🤝 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/prushti-kathrotiya-381047252/
